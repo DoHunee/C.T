@@ -1,7 +1,9 @@
 # Algorithm Study 
 
 💡 알고리즘 개인 학습공간 입니다 </br>
-💡[![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&link=https://picayune-perfume-061.notion.site/Algorithm-for-Coding-Test-cc4ea3da72ae49fe98072e1f3005981f?pvs=4)]([https://picayune-perfume-061.notion.site/Algorithm-for-Coding-Test-cc4ea3da72ae49fe98072e1f3005981f?pvs=4](https://picayune-perfume-061.notion.site/_Coding-Test-d29e6b97367e47a881ef521ba205eaef?pvs=4))
+💡[![Notion Badge](https://img.shields.io/badge/Notion-EE8208?style=flat-square&logo=Notion&logoColor=white&
+link=https://picayune-perfume-061.notion.site/_Coding-Test-d29e6b97367e47a881ef521ba205eaef?pvs=4)]
+(https://picayune-perfume-061.notion.site/_Coding-Test-d29e6b97367e47a881ef521ba205eaef?pvs=4)
 
 
 ### &#128640; Goal
